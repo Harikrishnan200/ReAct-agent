@@ -1,0 +1,19 @@
+──────
+
+# LangChain core framework
+langchain>=0.3.18
+
+# Community integrations — includes WikipediaQueryRun
+langchain-community>=0.3.17
+
+# Ollama integration for LangChain (replaces langchain_openai)
+langchain-ollama>=0.2.0
+
+# LangGraph — builds the ReAct agent state machine
+langgraph>=0.2.70
+
+# Wikipedia Python client — used by WikipediaQueryRun under the hood
+wikipedia>=1.4.0
+
+# LangChain core abstractions (HumanMessage, AIMessage, etc.)
+langchain-core>=0.3.34
